@@ -10,37 +10,37 @@ const Accessories = ({ setSelected }) => {
     {
       name: "Bracelet",
       price: "299.00",
-      img: "./src/assets/Accessories/bracelet.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Accessories/bracelet.png",
       type: "barcelet"
     },
     {
       name: "louis vuitton Purse",
       price: "19,999.00",
-      img: "./src/assets/Accessories/purse.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Accessories/purse.png",
       type: "purse"
     },
     {
       name: "IQOO Phone Case",
       price: "999.00",
-      img: "./src/assets/Accessories/phonecase.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Accessories/phonecase.png",
       type: "phonecase"
     },
     {
       name: "C-Type Charger",
       price: "840.00",
-      img: "./src/assets/Accessories/charger.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Accessories/charger.png",
       type: "charger"
     },
     {
       name: "RayBan Sunglass",
       price: "2,100.00",
-      img: "./src/assets/Accessories/sunglasses.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Accessories/sunglasses.png",
       type: "sunglasses"
     },
     {
       name: "Tie",
       price: "2,399.00",
-      img: "./src/assets/Accessories/tie.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Accessories/tie.png",
       type: "tie"
     }
   ];
