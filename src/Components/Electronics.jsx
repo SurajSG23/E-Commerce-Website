@@ -34,7 +34,7 @@ const Electronics = ({ setSelected }) => {
     {
       name: "Fire-Boltt Ring 3 ",
       price: "2,600.00",
-      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Electronics/waatch.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Electronics/watch.png",
       type: "watch"
     },
     {
