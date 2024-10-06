@@ -27,7 +27,8 @@ const HomePage = ({ setSelected }) => {
           <div className="card" onClick={() => { setSelected(3) }}>
             <h3>ACCESSORIES</h3>
             <hr />
-            <img src="./src/assets/accessories.png" alt="" />
+            <img src="https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/accessories.png
+" alt="" />
             <button>SHOP NOW</button>
           </div>
         </div>
