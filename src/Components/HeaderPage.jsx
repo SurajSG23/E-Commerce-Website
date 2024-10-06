@@ -4,7 +4,7 @@ const HeaderPage = () => {
   return (
     <div>
       <Header>
-        <div> <a href=""><img src="./src/assets/logo.png" alt="logo" /></a></div>
+        <div> <a href=""><img src="https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/logo.png" alt="logo" /></a></div>
         <div className='about'>
           <p href="">Home</p>
         </div>
