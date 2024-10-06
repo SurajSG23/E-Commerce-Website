@@ -9,7 +9,7 @@ const HeaderPageAccessories = ({ setSelected, changeItems }) => {
   return (
     <div> 
       <Header>
-        <div> <a href=""><img src="./src/assets/logo.png" alt="logo" /></a></div>
+        <div> <a href=""><img src="https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/logo.png" alt="logo" /></a></div>
         <div className='about'>
           <p onClick={() => { setSelected(0) }}>Home</p>
           <div className="search"><input type="text" placeholder='Search Here...' onChange={handleChange} /></div>
