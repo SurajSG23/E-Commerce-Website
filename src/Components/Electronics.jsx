@@ -10,37 +10,37 @@ const Electronics = ({ setSelected }) => {
     {
       name: "HP victus",
       price: "55,000.00",
-      img: "./src/assets/Electronics/laptop.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Electronics/laptop.png",
       type: "laptop"
     },
     {
       name: "IQOO NEO 6",
       price: "24,999.00",
-      img: "./src/assets/Electronics/phone.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Electronics/phone.png",
       type: "phone"
     },
     {
       name: "boAt Immortal 121",
       price: "999.00",
-      img: "./src/assets/Electronics/earphone.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Electronics/earphone.png",
       type: "earbuds"
     },
     {
       name: "Honor Tab X8",
       price: "8,999.00",
-      img: "./src/assets/Electronics/tab.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Electronics/tab.png",
       type: "tab"
     },
     {
       name: "Fire-Boltt Ring 3 ",
       price: "2,600.00",
-      img: "./src/assets/Electronics/watch.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Electronics/waatch.png",
       type: "watch"
     },
     {
       name: "Zeb Transformer",
       price: "2,399.00",
-      img: "./src/assets/Electronics/keyboard.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Electronics/keyboard.png",
       type: "keyboard"
     }
   ];
