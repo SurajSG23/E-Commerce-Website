@@ -1,5 +1,5 @@
 # React + Vite
-# E-Commrece Website
+# E-Commerce Website
 # IntrnForte Project
 
 Watch demo: 
