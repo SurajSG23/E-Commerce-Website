@@ -10,37 +10,37 @@ const Accessories = ({ setSelected }) => {
     {
       name: "Cargo Pant",
       price: "799.00",
-      img: "./src/assets/Clothings/cargopant.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Clothings/cargopant.png",
       type: "cargopant"
     },
     {
       name: "Swimming Dress",
       price: "999.00",
-      img: "./src/assets/Clothings/swimming.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Clothings/swimming.png",
       type: "swimming"
     },
     {
       name: "Girls Top",
       price: "999.00",
-      img: "./src/assets/Clothings/top.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Clothings/top.png",
       type: "top"
     },
     {
       name: "Boys Top",
       price: "840.00",
-      img: "./src/assets/Clothings/oversizedshirt.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Clothings/oversizedshirt.png",
       type: "top"
     },
     {
       name: "Skirt",
       price: "1,299.00",
-      img: "./src/assets/Clothings/skirt.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Clothings/skirt.png",
       type: "skirt"
     },
     {
       name: "Men Shorts",
       price: "999.00",
-      img: "./src/assets/Clothings/shorts.png",
+      img: "https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/Clothings//shorts.png",
       type: "shorts"
     }
   ];
