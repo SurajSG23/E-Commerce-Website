@@ -15,7 +15,7 @@ const HomePage = ({ setSelected }) => {
           <div className="card" onClick={() => { setSelected(1) }}>
             <h3>ELECTRONICS</h3>
             <hr />
-            <img src="./src/assets/electronics.png" alt="" />
+            <img src="/assets/electronics.png" alt="" />
             <button>SHOP NOW</button>
           </div>
           <div className="card" onClick={() => { setSelected(2) }}>
