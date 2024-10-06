@@ -15,13 +15,13 @@ const HomePage = ({ setSelected }) => {
           <div className="card" onClick={() => { setSelected(1) }}>
             <h3>ELECTRONICS</h3>
             <hr />
-            <img src="./src/assets/electronics.png" alt="" />
+            <img src="https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/electronics.png" alt="" />
             <button>SHOP NOW</button>
           </div>
           <div className="card" onClick={() => { setSelected(2) }}>
             <h3>CLOTHING</h3>
             <hr />
-            <img src="./src/assets/clothing.png" alt="" />
+            <img src="https://raw.githubusercontent.com/SurajSG23/E-Commerce-Website/main/src/assets/clothing.png" alt="" />
             <button>SHOP NOW</button>
           </div>
           <div className="card" onClick={() => { setSelected(3) }}>
